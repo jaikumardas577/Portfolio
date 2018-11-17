@@ -128,3 +128,17 @@ CSRF_COOKIE_SECURE              = False
 SECURE_HSTS_SECONDS             = None
 SECURE_HSTS_INCLUDE_SUBDOMAINS  = False
 SECURE_FRAME_DENY               = False
+
+
+# EMAIL_HOST = ''
+# EMAIL_HOST_USER = ''
+# EMAIL_HOST_PASSWORD = ''
+# EMAIL_PORT = 
+# EMAIL_USE_TLS = 
+# DEFAULT_FROM_EMAIL = ''
+
+# ADMINS = (
+#     ('You','you@email.com'),
+#     )
+
+# MANAGERS = ADMINS
