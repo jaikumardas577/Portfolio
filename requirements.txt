@@ -26,7 +26,7 @@ django-video-encoding==0.2.0
 django-videofield==0.1.1
 django-webpack-loader==0.6.0
 django-widget-tweaks==1.4.2
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 flake8==3.5.0
 get==0.0.40
