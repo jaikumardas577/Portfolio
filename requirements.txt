@@ -15,7 +15,7 @@ django-appconf==1.0.2
 django-bootstrap3==10.0.1
 django-braces==1.13.0
 django-crispy-forms==1.7.2
-django-debug-toolbar==1.6
+django-debug-toolbar==1.11.1
 django-model-utils==2.6.1
 django-private-chat==0.1.8
 django-progressive-web-app==0.1.1
