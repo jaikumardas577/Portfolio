@@ -79,4 +79,4 @@ tox==3.0.0
 urllib3==1.22
 virtualenv==15.2.0
 virtualenvwrapper-win==1.2.5
-websockets==3.2
+websockets==9.1
